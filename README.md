@@ -60,7 +60,7 @@ This lab has several short answer questions to answer in this `README.md` file. 
    });
    ```
 
-3. Vist the site again. What does this middleware do for the main page? The example.html page?
+3. Visit the site again. What does this middleware do for the main page? The example.html page?
 
       **Replace this text with your response.**
       
@@ -74,7 +74,7 @@ This lab has several short answer questions to answer in this `README.md` file. 
 
       **Replace this text with your response.**
       
-6. Add error handling middleware `app.UseExceptionHandler("/Error");`. Plase this code above all other middleware.
+6. Add error handling middleware `app.UseExceptionHandler("/Error");`. Place this code above all other middleware.
 
 7. Run your project. How is the error displayed now?
 
