@@ -54,7 +54,7 @@ This lab has several short answer questions to answer in this `README.md` file. 
    ```
    app.UseRouting();
    
-   app.UseEndPoints(endpoints =>
+   app.UseEndpoints(endpoints =>
    {
          endpoints.MapRazorPages();
    });
